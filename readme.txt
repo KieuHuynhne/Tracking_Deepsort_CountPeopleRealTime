@@ -1,5 +1,4 @@
 Kiều Ngọc Như Huỳnh - 52100224
-Trần Thị Thanh Trúc - 52100940
 
 Các bước Demo cho hệ điều hành Window:
 1. Tạo folder và tạo máy ảo venv
